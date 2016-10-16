@@ -6,11 +6,10 @@ human context logging and reporting
   - api
     - record new event -> processing
     - list recent records
-    -
   - design parameters
     - parse bots (see below)
     - parse-ables do not span messages
-    - messages can be referenced
+    - messages can be referenceds
     - parse-bots can maintain state
       - must identify, rectify loss-of-state
       - must respond to reset event
